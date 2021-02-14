@@ -1,12 +1,12 @@
 <div align = "center">
 
-## PicSter
+# PicSter
 
-Let's capture and share the best moments of our Lives✨
+💥Let's capture and share the best moments of our Lives✨
 
 </div>
 
-# Getting Started with PicSter
+## Getting Started with PicSter
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -14,9 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-In this project I have used ##yarn if you prefer ##npm please run the following npm commands instead of yarn in your terminal.
+In this project I have used `yarn` if you prefer `npm` please run the following npm commands instead of yarn in your terminal.
 
-### `yarn start` or `npm start`
+### 🚀 `yarn start` or `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -24,11 +24,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test` or `npm test`
+### 🚀  `yarn test` or `npm test`
 
 Launches the test runner in the interactive watch mode.\
 
-### `yarn build` or `npm build`
+### 🚀  `yarn build` or `npm build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -36,7 +36,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-### `yarn eject` or `npm eject`
+### 🚀  `yarn eject` or `npm eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
