@@ -8,7 +8,7 @@
 
 <br>
 
- The site is live @ [picster.netlify.app](https://picster.netlify.app) 
+ The site is live @ [picster.netlify.app](https://picster.pawelborkar.com) 
 
 <br>
  <img src ="./src/Picster.png">
