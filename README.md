@@ -14,7 +14,7 @@
 
 <br>
 
-The site is live @ [picster.pawelborkar.com](https://picster.pawelborkar.com) 
+The site is live @ [picster.netlify.app](https://picster.netlify.app) 
 
 <br>
  <img src ="./src/Picster.png">
